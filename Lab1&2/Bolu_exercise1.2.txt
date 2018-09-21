@@ -1,0 +1,36 @@
+Bolu Olayemi
+Exercise 1.2
+Please answer following questions:
+
+1. Demographics
+	a. What is your class level?  Senior
+	b. What is your major? IS
+	c. What letter grades did you get in CS 112?C
+
+2. Technical
+	a. Have you worked on any of the following things:
+		Java applications? NO
+		Portable device applications (Android? iOS?) NO
+		GPS-based systems? NO
+		Database-driven web sites or services? NO
+	If so, what (briefly) have you done? 
+
+	b. Have you used any of the following tools:
+		Slack? YES
+		Trello? YES
+		Git and/or GitHub? NO
+	If so, what have you used an how (briefly) have you used it? My 3 previous internships depended heavily on these technologies.
+
+	c.Do you have any Android devices and, if so, what sort of devices are they and what version of Android do they run? NO, I use an iPhone.
+	If you’d prefer to develop on another portable platform, indicate which one and whether you have a device that runs it.
+
+	d. What project or projects would you like to work on. Include at least one tractable project, say from the previous lab exercise or from the suggested projects in the team project specification. If you’d like, talk to other students or use the Moodle forum to form groups interested in particular project ideas.
+	I might like to work on the 'Calvin printer info app" project submitted by Caleb Boraby and I.
+
+3. Personality
+	a. What is your big-five personality type? (See the reading guide for how to determine this.) O - 67%, C - 71%, E - 79%, A - 81%, N - 44%
+	b. Is there anyone you’d really like (or not like!) to work with? We’ll do our best to honor your requests here.
+		like to work with: Caleb boraby
+		not like to work with: jordan hordyk, Derek Fisher, Joshua Wilson
+	c. Is there anything else you’d like us to know about you before assigning you to a project team? I am not confident in my coding skills but I would really love to learn. I love managing projects.
+
